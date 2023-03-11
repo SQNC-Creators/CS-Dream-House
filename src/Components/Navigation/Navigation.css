@@ -1,0 +1,17 @@
+.navbaritempadding{
+    width: 65%;
+    padding-right: 2%;
+}
+.navbitems{
+    padding-right: 2%;
+}
+.navbar{
+    box-shadow: none !important;
+}
+.navbarbrandimg{
+    padding-left: 2%;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    color: #eb5e06 !important;
+    font-weight: 500;
+}

@@ -1,0 +1,30 @@
+.home-text{
+    margin-left: 3%;
+}
+
+.home-h1{
+    font-weight: bold;
+    font-size: 80px !important;
+    top: 20%;
+    color: black;
+}
+
+.home-span-your{
+    color: #eb5e06;
+}
+
+.home-contact-btn{
+    color: #eb5e06 !important;
+    border: solid 2.5px #eb5e06 !important;
+    font-weight: 700 !important;
+    width: 18rem;
+    margin: 15px;
+}
+
+.home-bg{
+    background-image: url('../../Assets/Images/home.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
