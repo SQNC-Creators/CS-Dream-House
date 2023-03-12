@@ -10,8 +10,9 @@ import {
     MDBCollapse,
     MDBIcon
 } from 'mdb-react-ui-kit';
-import './Navigation.css'
-import logo from '../../Assets/Images/Logo.png'
+import './Navigation.css';
+import logo from '../../Assets/Images/Logo.png';
+import { Link } from 'react-router-dom';
 
 
 export default function App() {
@@ -35,22 +36,22 @@ export default function App() {
                 <MDBCollapse className='navbitems' navbar show={showNav}>
                     <MDBNavbarNav className='justify-content-end'>
                         <MDBNavbarItem>
-                            <MDBNavbarLink active aria-current='page' href='#'>
+                            <MDBNavbarLink tag={Link} to='/' active aria-current='page' href='#'>
                                 Home
                             </MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#'>
+                            <MDBNavbarLink tag={Link} to='/projects'>
                                 Projects
                             </MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#'>
+                            <MDBNavbarLink tag={Link} to='/aboutus'>
                                 About Us
                             </MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink href='#'>
+                            <MDBNavbarLink tag={Link} to='/contact'>
                                 Contact Us
                             </MDBNavbarLink>
                         </MDBNavbarItem>
