@@ -36,7 +36,7 @@ export default function App() {
                 <MDBCollapse className='navbitems' navbar show={showNav}>
                     <MDBNavbarNav className='justify-content-end'>
                         <MDBNavbarItem>
-                            <MDBNavbarLink tag={Link} to='/' active aria-current='page' href='#'>
+                            <MDBNavbarLink tag={Link} to='/' aria-current='page' href='#'>
                                 Home
                             </MDBNavbarLink>
                         </MDBNavbarItem>

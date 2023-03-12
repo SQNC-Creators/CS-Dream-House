@@ -12,7 +12,7 @@
 .navbarbrandimg{
     padding-left: 2%;
 }
-.navbar-light .navbar-nav .nav-link.active{
+.navbar-light .navbar-nav .nav-link.active {
     color: #eb5e06 !important;
     font-weight: 500;
 }
