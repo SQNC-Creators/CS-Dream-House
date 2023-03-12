@@ -1,0 +1,47 @@
+.contact-imgdiv {
+    margin: auto;
+}
+
+.contatcIm {
+    max-width: 80% !important;
+    padding-left: 20%;
+    margin-top: 10%;
+}
+
+.img-col-contact {
+    border-left: 3px solid rgb(194, 189, 189);
+}
+
+.contact-main {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contact-formH {
+    color: #eb5e06;
+    margin-bottom: 50px;
+}
+
+.inp-contact {
+    margin-top: 10px;
+    min-width: 300px !important;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border: 1px solid #eb5e06;
+}
+
+.contact-f {
+    padding-right: 20% !important;
+}
+
+.cont-btn {
+    width: fit-content;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #eb5e06;
+    background-color: white;
+    border: 2px solid #eb5e06;
+    border-radius: 10px;
+    margin-top: 10px;
+}
