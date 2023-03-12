@@ -46,7 +46,7 @@ export default function App() {
                             </MDBNavbarLink>
                         </MDBNavbarItem>
                         <MDBNavbarItem>
-                            <MDBNavbarLink tag={Link} to='/aboutus'>
+                            <MDBNavbarLink tag={Link} to='/about'>
                                 About Us
                             </MDBNavbarLink>
                         </MDBNavbarItem>
