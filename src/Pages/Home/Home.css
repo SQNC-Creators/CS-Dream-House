@@ -1,30 +1,140 @@
-.home-text{
+.home-text {
     margin-left: 3%;
 }
 
-.home-h1{
-    font-weight: bold;
+.home-h1 {
+    font-weight: 800;
     font-size: 80px !important;
     top: 20%;
     color: black;
 }
 
-.home-span-your{
+.home-span-your {
     color: #eb5e06;
 }
 
-.home-contact-btn{
+.home-contact-btn {
     color: #eb5e06 !important;
     border: solid 2.5px #eb5e06 !important;
     font-weight: 700 !important;
-    width: 18rem;
+    width: 16rem;
     margin: 15px;
+    border-radius: 20px !important;
 }
 
-.home-bg{
+.home-bg {
     background-image: url('../../Assets/Images/home.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
+}
+
+.hrHome {
+    margin-top: 40px !important;
+    margin-right: 30px;
+    margin-left: 30px;
+    border: 2px solid black;
+    height: 2px !important;
+}
+
+.home-bg2 {
+    background-image: url('../../Assets/Images/home-img2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100%;
+}
+
+.home-bgcol {
+    width: 100vw;
+}
+
+.home-sec2 {
+    padding-top: 30px;
+    min-height: 400px;
+}
+
+.home-bgrow {
+    height: 50vh;
+}
+
+.home-text2 {
+    text-align: left;
+    color: black;
+    font-weight: 800;
+}
+
+.home-para {
+    text-align: justify;
+    padding-top: 20px;
+}
+
+.home-design {
+    background-image: url('../../Assets/Images/home-img3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    padding: 0 !important;
+}
+
+.main-cont {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100%;
+}
+
+.home-designcont {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100%;
+}
+
+.home-card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.card-row {
+    width: 100%;
+}
+
+.card-img {
+    max-width: 100%!important;
+}
+
+.card-title {
+    text-align: left;
+    color: black;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.card-txt {
+    color: black;
+    text-align: justify;
+}
+
+.card-boystyle {
+    padding-top: 12% !important;
+    margin-left: 5vh !important;
+}
+
+.card-visiont {
+    text-align: center;
+    color: rgba(253, 157, 47, 0.812);
+}
+
+.card-visiont2 {
+    text-align: center;
+    color: black;
+}
+
+.home-cardset1 {
+    margin-left: 30%;
+}
+
+.home-cardset2 {
+    margin-right: 30%;
 }

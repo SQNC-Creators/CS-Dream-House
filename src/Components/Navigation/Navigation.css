@@ -4,6 +4,7 @@
 }
 .navbitems{
     padding-right: 2%;
+    font-weight: bold;
 }
 .navbar{
     box-shadow: none !important;

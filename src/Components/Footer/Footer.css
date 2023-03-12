@@ -1,5 +1,8 @@
 .footer_up{
     background-color: rgb(255, 172, 77);
+    position: relative;
+    bottom: 0;
+    margin-top: 50px;
 }
 .copyright{
     background-color: rgba(253, 157, 47, 0.812);
