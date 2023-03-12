@@ -21,3 +21,11 @@
 .projects-t2 {
     color: black;
 }
+
+.pcenter {
+    align-items: center;
+    align-self: center;
+    width: 40% !important;
+    margin-left: 30%;
+    margin-right: 30%;
+}

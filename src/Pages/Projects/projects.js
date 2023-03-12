@@ -26,12 +26,14 @@ function projects() {
       </MDBRow>
       <MDBRow className='projects-r3'>
         <p className='projects-t1'>Our Projects</p>
-        <p className='projects-t2'>Lorem ipsum dolor sit amet, autem utamur necessitatibus
-          cu duo, eos vivendo explicari honestatis ad, mea at
-          ornatus ancillae imperdiet. No pri purto mollis. Sea albucius
-          scripserit eu, et pri mazim vivendum, sea ex harum menandri.
-          Moderatius contentiones necessitatibus cu ius, ut nam
-          liber legimus feugait.</p>
+        <div className='pcenter'>
+          <p className='projects-t2'>Lorem ipsum dolor sit amet, autem utamur necessitatibus
+            cu duo, eos vivendo explicari honestatis ad, mea at
+            ornatus ancillae imperdiet. No pri purto mollis. Sea albucius
+            scripserit eu, et pri mazim vivendum, sea ex harum menandri.
+            Moderatius contentiones necessitatibus cu ius, ut nam
+            liber legimus feugait.</p>
+        </div>
       </MDBRow>
       <MDBRow className='projects-r2'>
         <MDBCol lg='3' md='6'>
